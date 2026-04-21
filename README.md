@@ -48,10 +48,14 @@ This project was developed to practice and demonstrate:
 ### 3. Run the application
     py main.py
 
-## Screenshots ### Register and Login windows for admin 
+## Screenshots 
+
+### Register and Login windows for admin 
 <img width="800" height="625" alt="Screenshot 2026-04-21 182715" src="https://github.com/user-attachments/assets/57fcc748-e7ed-41d0-9313-4e81ae31bbd4" /> 
 <img width="797" height="627" alt="Screenshot 2026-04-21 182731" src="https://github.com/user-attachments/assets/d8343ce0-8467-40d0-a1e0-c5093208886a" /> 
+
 ### Main Window 
 <img width="896" height="623" alt="Screenshot 2026-04-21 183922" src="https://github.com/user-attachments/assets/c9881f6a-0692-493d-9981-ac19d6f1e410" />
+
 ### Add and Update Records 
 <img width="391" height="252" alt="Screenshot 2026-04-21 193647" src="https://github.com/user-attachments/assets/3a7eddb1-0e72-4c05-815c-9f6758bf6680" />
